@@ -1,0 +1,1 @@
+"cats-core", "monocle-core", "monocle-generic", "monocle-macro"

@@ -1,0 +1,1 @@
+addSbtPlugin("com.github.benhutchison" % "sbt-common" % "0.1-SNAPSHOT")
